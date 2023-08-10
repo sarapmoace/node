@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Hatdog",
+    "image": "https://th.bing.com/th/id/R.af8118776cfddc1d258beeb0ae116fec?rik=NVFIZxq9CPmWGQ&riu=http%3a%2f%2fclipart-library.com%2fimg%2f1334903.png&ehk=sJtLUVFSEftfa%2flFywbP5VmVpO9ysKSJa34ojBvVXyw%3d&risl=&pid=ImgRaw&r=0",
+    "from": "philippines",
+    "nutrients": "Vitamin B",
+    "quantity": "4🌭",
+    "price": "1.50",
+    "organic": false,
+    "description": "A hot dog is a food consisting of a grilled or steamed sausage served in the slit of a partially sliced bun."
+  },
+  {
+    "id": 1,
+    "productName": "Avocado",
+    "image": "https://webstockreview.net/images/avocado-clipart-4.png",
+    "from": "philippines",
+    "nutrients": "Vitamin B",
+    "quantity": "7🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "An avocado is a fruit with a green to purple skin, a large pit, and a buttery flesh that has a nutty flavor."
+  }
+]
